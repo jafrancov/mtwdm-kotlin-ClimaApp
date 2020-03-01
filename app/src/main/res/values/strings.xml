@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="ciudad">Guanajuato, Gto.</string>
+    <string name="grados">19º</string>
+    <string name="estatus">Nublado</string>
+    <string name="tiempoGto">Ver el tiempo en Guanajuato</string>
+    <string name="tiempoIra">Ver el tiempo en Irapuato</string>
+    <string name="bienvenida">Bienvenidos a la app del clima, para ver el tiempo de una ciudad selecciona en la opción de abajo</string>
+</resources>
